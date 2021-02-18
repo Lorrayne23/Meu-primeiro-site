@@ -1,0 +1,17 @@
+h1{
+    color: rgba(0, 2, 7, 0.596);
+}
+
+.ppt{
+    border: 2px solid blueviolet;
+    background-color: rgba(30, 19, 133, 0.623);
+}
+html{
+    background-color: rgba(98, 0, 255, 0.692);
+}
+h4{
+    font-style:italic;
+}
+div{
+    text-align: center;
+}
